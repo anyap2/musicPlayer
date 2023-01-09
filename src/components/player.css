@@ -1,0 +1,54 @@
+/* .rhap_theme-color: #868686 !default;    */
+/* // Color of all buttons and volume/progress indicators */
+/* .rhap_background-color: #fff !default;  */
+/* // Color of the player background */
+/* .rhap_bar-color: #e4e4e4 !default;      */
+/* // Color of volume and progress bar */
+/* .rhap_time-color: #333 !default;       */
+/* // Font color of current time and duration */
+/* .rhap_font-family: inherit !default;    */
+/* // Font family of current time and duration */
+
+#playerStyle {
+    position: fixed;
+    bottom: 0;
+}
+
+.rhap_progress-bar {
+    background-color: rgb(255, 255, 255);
+}
+
+.rhap_container {
+    background-color: #131111;
+}
+
+.rhap_theme {
+    color: white;
+}
+
+.rhap_volume-button {
+    color: #ffffff;
+}
+
+.rhap_volume-indicator {
+    background: #ffffff;
+}
+
+.rhap_progress-indicator {
+    background: #ffffff;
+}
+
+.rhap_repeat-button {
+    color: #ffffff;
+}
+
+.rhap_main-controls-button {
+    color: #ffffff
+}
+.rhap_time{
+    color: #ffffff
+}
+.rhap_container {
+    position: sticky;
+    bottom: 0;
+}

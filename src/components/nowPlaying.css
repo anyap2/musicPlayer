@@ -1,0 +1,25 @@
+.nowPlayingDiv {
+    position: fixed;
+    right: 0vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50vw;
+}
+
+.trackPhoto {
+
+    height: 76vh;
+}
+
+h5{
+    margin:0
+
+}
+.nowPlayingTrack {
+    height: 62vh;
+}
+
+img {}

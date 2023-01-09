@@ -1,0 +1,14 @@
+#navBar{
+    width: 100vw;
+    position: fixed;
+    background-color: #370617;
+    display: flex;
+    justify-content: center;
+    align-items: centerj;
+}
+
+.navBarIcon{
+    width: 10vw;
+    height: 10vw;
+
+}
